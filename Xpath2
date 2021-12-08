@@ -1,0 +1,74 @@
+1.username
+//input[@name='username']
+
+2.password
+//input[@name='password']
+
+3.repeated password
+//input[@name='repeatedPassword']
+
+4.//input[@name='account.lastName']
+5.firstname
+//input[@name='account.firstName']
+6.email
+//input[@name='account.email']
+7.phone
+//input[@name='account.phone']
+
+8.address1
+//input[@name='account.address1']
+9.address2
+//input[@name='account.address2']
+10.city
+//input[@name='account.city']
+11.state
+//input[@name='account.state']
+12.zip
+//input[@name='account.zip']
+13.country
+//input[@name='account.country']
+
+14.language prefernce
+//select[@name='account.languagePreference']
+15.favouriteCategoryId
+//select[@name='account.favouriteCategoryId']
+16.Enable my list
+//input[@name='account.listOption']
+17.Enable my banner
+//input[@name='account.bannerOption']
+18.search box
+//input[@name='keyword']
+19.search icon
+//input[@name='searchProducts']
+20.cart image
+//img[@name='img_cart']
+21.save account information
+//input[@name='newAccount']
+
+Amazon
+1.search
+//input[@name='field-keywords']
+2.email
+//input[@name='email']
+3.username
+//input[@name='customerName']
+4.email
+//input[@name='email']
+5.password
+//input[@name='password']
+6.repeated password
+//input[@name='passwordCheck']
+7.Business Email
+//input[@name='businessEmail']
+8.Business email button started
+//button[@role='button']
+9.choose your location
+//input[@name='dropdown-selection']
+10.sign in to see ur addredd
+//input[@class='a-button-input']  or //span[@class='a-button-text']
+11.ship outside US
+//span[@class='a-button-text a-declarative']
+
+ uid username pswd email opeartion
+
+enter uid u want to delete   delete button
